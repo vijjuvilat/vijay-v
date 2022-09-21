@@ -1,0 +1,8 @@
+#Include<STD IO.H>
+Main C
+#include<stdio.h>
+int main()
+{
+printf("Hello");
+ return 0;
+}
